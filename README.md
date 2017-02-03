@@ -7,8 +7,8 @@ Here I explore online sales data for a wine store. In part I, I use k-means clus
 
 ### Documents:  
 recommenders.py has functions for building recommenders.  
-WineDrinkers.ipynb has workflow of clustering wine drinkers.  
-WineDrinkers2.ipynb  has workflow of building wine recommenders.
+WineDrinkers.ipynb goes through the workflow of clustering wine drinkers.  
+WineDrinkers2.ipynb goes through the workflow of building wine recommenders.
 
 ---
 
